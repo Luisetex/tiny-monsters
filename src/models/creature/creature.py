@@ -1,4 +1,4 @@
-from src.models.game_type import GameType
+from src.models.elemental_type import ElementalType
 from src.models.stats import Stats, StatStages
 
 
